@@ -2,6 +2,16 @@
 
 An earlier PHP + MySQL project documentation workspace prototype. Daymark is the planned name for the Next.js version.
 
+## Screenshots
+
+| Overview | Project folder |
+| --- | --- |
+| ![Overview](uploads/e8c897ad6edb6fe29f40bd2a53cf62b3.png) | ![Project folder](uploads/2f16cd314ab32921b7cdcfd02ee15b83.png) |
+
+| New document | Document preview |
+| --- | --- |
+| ![New document](uploads/dc3584e284150137c3832f2b997ac329.png) | ![Document preview](uploads/b360c188fcce027e568851d9007de486.png) |
+
 ## Requirements
 - PHP 8.0+
 - MySQL 5.7+ / MariaDB
